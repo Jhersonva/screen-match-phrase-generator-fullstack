@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 import com.desafioalura.screenmatch_frases.service.FraseService;
 
-//Clase FraseController
+//Controlador FraseController
 @RestController
 public class FraseController {
 
