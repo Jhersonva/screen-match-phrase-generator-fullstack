@@ -2,7 +2,7 @@
 
 ## 📖 Descripción
 
-**Screen-Match Phrase Generator** es una aplicación full-stack que permite a los usuarios visualizar basadas en datos proporcionados por películas y series. Esta aplicación está construida con un backend robusto utilizando **Java**, **Spring Boot**, **JPA**, y **PostgreSQL**, mientras que el frontend está desarrollado con **HTML**, **CSS**, y **JavaScript** para una experiencia de usuario interactiva.
+**Screen-Match Phrase Generator** es una aplicación full-stack que permite a los usuarios visualizar los datos proporcionados por películas y series. Esta aplicación está construida con un backend robusto utilizando **Java**, **Spring Boot**, **JPA**, y **PostgreSQL**, mientras que el frontend está desarrollado con **HTML**, **CSS**, y **JavaScript** para una experiencia de usuario interactiva.
 
 ## 🛠️ Tecnologías Utilizadas
 
@@ -21,7 +21,7 @@
 
 ## ✨ Características
 
-- ✅ Visualización de frases de segun la serie.
+- ✅ Visualización de frases de segun la pelicula y serie.
 - ✅ Interfaz de usuario intuitiva y fácil de usar.
 - ✅ Integración con base de datos PostgreSQL para la persistencia de datos.
 - ✅ API RESTful para la comunicación entre el frontend y el backend.
@@ -85,7 +85,7 @@ Antes de instalar y ejecutar este proyecto, asegúrate de tener instalado:
 
 1. Accede a la interfaz de usuario a través del archivo `index.html`.
 2. Los datos de las series como, titulo, frase, personale y poster, estan registrados en la base de datos PostgreSQL.
-3. Utiliza el boton proporcionado para visualizar las frases, segun la serie, que se mostraran aleatoriamente.
+3. Utiliza el boton proporcionado para visualizar los datos, segun la pelicula o serie que se mostraran aleatoriamente.
 
 ## 📜 Licencia
 
