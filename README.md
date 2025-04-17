@@ -41,7 +41,7 @@ Antes de instalar y ejecutar este proyecto, asegúrate de tener instalado:
 1. **Clona el repositorio desde GitHub:**
 
     ```bash
-    git clone https://github.com/Jhersonva/Screen-Match-Phrase-Generator.git
+    git clone https://github.com/Jhersonva/screen-match-phrase-generator.git
     ```
 
 2. **Configura la base de datos PostgreSQL para el backend:**
@@ -49,7 +49,7 @@ Antes de instalar y ejecutar este proyecto, asegúrate de tener instalado:
     Navega al directorio del backend y crea una base de datos en PostgreSQL.
 
     ```bash
-    cd Screen-Match-Phrase-Generator/screenmatch-frases-backend
+    cd screen-match-phrase-generator/screenmatch-frases-backend
     ```
 
 3. **Actualiza las credenciales de acceso en `application.properties`.**
